@@ -1,4 +1,4 @@
-# EJERCICIOS DE PRATICA
+# EJERCICIOS DE PRACTICA
 
 name = input(f" enter  your name: ")
 edad = int(input(f" enter your age: "))  
@@ -21,5 +21,6 @@ if IMC >= 18.5 and IMC < 24.9:
     print("PESO NORMAL")
 if IMC > 25: 
     print("SOBREPESO")
+
 
 
